@@ -1,0 +1,2 @@
+Perplexity Score: 2729.875203176545
+Coherence Score: 0.4915593698529654
